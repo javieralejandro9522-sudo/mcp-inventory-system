@@ -48,7 +48,7 @@ mcp_inventory/
 
 ### Clonar repositorio
 
-git clone https://github.com/USUARIO/mcp-inventory-system.git
+git clone [https://github.com/USUARIO/mcp-inventory-system.git](https://github.com/javieralejandro9522-sudo/mcp-inventory-system.git)
 
 cd mcp-inventory-system
 
