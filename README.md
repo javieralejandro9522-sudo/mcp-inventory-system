@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario con MCP y SQLite
+# Sistema de Gestión de Inventario con MCP y SQLite.
 
 ## Descripción
 
